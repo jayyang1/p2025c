@@ -11,3 +11,5 @@ Do it! HTML+CSS+자바스크립트 웹 표준의 정석 - 전면 개정판
 - (VSCode) Live Server = VSCode 확장
 - 시맨틱 태그
 ## 04 다양한 내용 입력하기 (1)
+- 텍스트: h1, p, hr, br, b, strong, em
+- 목록: ol = ordered list, ul = unordered list
