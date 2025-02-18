@@ -21,4 +21,7 @@ Do it! HTML+CSS+자바스크립트 웹 표준의 정석 - 전면 개정판
 ## 05 입력 양식 작성하기 (1)
 - 입력양식 = form
 - input: 다양한 태그 속성
-- 시청 완료
+## 05 입력 양식 작성하기 (2)
+- input 태그의 주요 속성 = autofocus, placefolder, readonly, required
+- 폼에서 사용하는 여러가지 태그 = textarea, select, button
+- 동영상 시청 완료
